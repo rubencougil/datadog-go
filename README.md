@@ -16,7 +16,7 @@ Example of running a [Datadog](https://www.datadoghq.com/ "Datadog") Agent in a 
 
 4. Install the Dogstatsd client:
 
-	go get github.com/DataDog/datadog-go/statsd`
+	`go get github.com/DataDog/datadog-go/statsd`
 
 5. Execute go application:
 
