@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/datadog-go/statsd"
+	"github.com/DataDog/datadog-go/statsd"
 	"time"
 )
 
